@@ -254,3 +254,6 @@ This repository serves as the official landing page for **Super Smash Flash 2**.
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Super Smash Flash 2 today!**
+
+---
+**Last updated:** 2026-09-10 10:37:14 UTC
